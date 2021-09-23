@@ -1,0 +1,3 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/bgm:bgm/" ArchivePath="../Metin2/pack/bgm" XmlPath="xml/bgm_create.xml"></CreateEterPackXml>
+</ScriptFile>

@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/sound:sound/" ArchivePath="../Metin2/pack/sound" XmlPath="xml/sound_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

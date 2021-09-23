@@ -1,0 +1,7 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/root:" ArchivePath="../Metin2/pack/root" XmlPath="xml/root_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.csv" />
+		<Ignore Pattern="[a-zA-z0-9]+error_lookup.py" />
+		<Ignore Pattern="[a-zA-z0-9]+test[a-zA-z0-9]+.py" />
+	</CreateEterPackXml>
+</ScriptFile>

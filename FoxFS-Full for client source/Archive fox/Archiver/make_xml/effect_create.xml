@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/effect:d:/ymir work/effect/" ArchivePath="../Metin2/pack/effect" XmlPath="xml/effect_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

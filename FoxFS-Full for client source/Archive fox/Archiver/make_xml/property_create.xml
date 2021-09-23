@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/property/:property/" ArchivePath="../Metin2/pack/property" XmlPath="xml/property_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

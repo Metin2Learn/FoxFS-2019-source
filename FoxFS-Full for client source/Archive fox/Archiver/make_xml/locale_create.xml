@@ -1,0 +1,11 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/locale:locale/" ArchivePath="../Metin2/pack/locale" XmlPath="xml/locale_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.csv" />
+		<Ignore Pattern="[a-zA-z0-9]+.png" />
+		<Ignore Pattern="[a-zA-z0-9]+.psd" />
+		<Ignore Pattern="[a-zA-z0-9]+.uas" />
+		<Ignore Pattern="[a-zA-z0-9]+.bat" />
+		<Ignore Pattern="[a-zA-z0-9]+.pdn" />
+		<Ignore Pattern="[a-zA-z0-9]+.ufo" />
+	</CreateEterPackXml>
+</ScriptFile>

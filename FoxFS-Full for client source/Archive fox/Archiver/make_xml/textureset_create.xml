@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/textureset:textureset/" ArchivePath="../Metin2/pack/textureset" XmlPath="xml/textureset_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

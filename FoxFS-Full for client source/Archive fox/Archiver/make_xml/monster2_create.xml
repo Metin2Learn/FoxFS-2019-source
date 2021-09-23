@@ -1,0 +1,9 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/monster2/:d:/ymir work/monster2/" ArchivePath="../Metin2/pack/monster2" XmlPath="xml/monster2_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.png" />
+		<Ignore Pattern="[a-zA-z0-9]+.psd" />
+		<Ignore Pattern="[a-zA-z0-9]+.uas" />
+		<Ignore Pattern="[a-zA-z0-9]+.pdn" />
+		<Ignore Pattern="[a-zA-z0-9]+.ufo" />
+	</CreateEterPackXml>
+</ScriptFile>

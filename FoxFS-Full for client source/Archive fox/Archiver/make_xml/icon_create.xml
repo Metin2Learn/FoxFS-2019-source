@@ -1,0 +1,8 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/icon:icon/" ArchivePath="../Metin2/pack/icon" XmlPath="xml/icon_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.png" />
+		<Ignore Pattern="[a-zA-z0-9]+.psd" />
+		<Ignore Pattern="[a-zA-z0-9]+.uas" />
+		<Ignore Pattern="[a-zA-z0-9]+.pdn" />
+	</CreateEterPackXml>
+</ScriptFile>

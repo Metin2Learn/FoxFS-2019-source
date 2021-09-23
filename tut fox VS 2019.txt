@@ -1,0 +1,19 @@
+Archive fox: Archiver - tool de arhivare
+	     Client - pui clientul decriptat
+	     Metin2 - Pui restul clientului cu pack gol
+
+FoxFs: in marty il pui langa Sursa client si Extern
+include: il adaugi in Extern/include
+Source Binarty le compary cu ale tale sau cauti : USE_FOX_FS si le adaugi pe sursa ta
+daca ai probleme pe marty in PropertyManager.cpp cu:
+#ifdef USE_FOX_FS
+#include <boost/property_tree/ptree.hpp>
+#include <boost/property_tree/xml_parser.hpp>
+#include <boost/foreach.hpp>
+#endif
+
+downloadezi boost full si il inlocuiesti:
+https://boostorg.jfrog.io/artifactory/main/release/1.68.0/source/boost_1_68_0.zip
+
+sau il poti lua de aici doar il muti la tine in extern: https://github.com/onexR0/FoxFS-2019-source
+

@@ -1,0 +1,7 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/dungeons:" ArchivePath="../Metin2/pack/dungeons" XmlPath="xml/dungeons_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.csv" />
+		<Ignore Pattern="[a-zA-z0-9]+error_lookup.py" />
+		<Ignore Pattern="[a-zA-z0-9]+test[a-zA-z0-9]+.py" />
+	</CreateEterPackXml>
+</ScriptFile>

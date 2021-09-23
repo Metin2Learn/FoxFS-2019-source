@@ -1,0 +1,8 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/ETC:d:/ymir work/" ArchivePath="../Metin2/pack/etc" XmlPath="xml/etc_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.psd" />
+		<Ignore Pattern="[a-zA-z0-9]+.uas" />
+		<Ignore Pattern="[a-zA-z0-9]+.pdn" />
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

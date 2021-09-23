@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/terrain:d:/ymir work/terrainmaps" ArchivePath="../Metin2/pack/terrain" XmlPath="xml/terrain_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>

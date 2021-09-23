@@ -1,0 +1,5 @@
+<ScriptFile>
+	<CreateEterPackXml Input="../Client/npc2:d:/ymir work/npc2/" ArchivePath="../Metin2/pack/npc2" XmlPath="xml/npc2_create.xml">
+		<Ignore Pattern="[a-zA-z0-9]+.xml" />
+	</CreateEterPackXml>
+</ScriptFile>
